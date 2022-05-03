@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Ecom1",
-    "slug": "Ecom1",
+    "name": "ecommerce-react-native-app",
+    "slug": "ecommerce-react-native-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
